@@ -11,6 +11,7 @@
 #include <stdlib.h>
 #include <malloc.h>
 #include <string.h>
+#include <math.h>
 
 #include "lib.h"
 
